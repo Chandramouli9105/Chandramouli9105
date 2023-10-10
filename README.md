@@ -26,7 +26,7 @@ Here are some of the projects I've been working on:
    infrastructure log by Grafana Loki and Promtail and Metrics by Prometheus Monitoring Tool
    - Technologies: Kubernetes, Jenkins, Grafana, Loki, Operators in the Kubernetes, Helm, AWS(EKS)
   
-2. **Python web application**: 
+2. **Python web application**: https://github.com/Chandramouli9105/Python-web-application.git
    - Description: Building a simple Python web application, The application uses the Flask framework and maintains a hit counter in Redis.
    - Technologies: Docker, Docker-Compose EC2
 
